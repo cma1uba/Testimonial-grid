@@ -75,7 +75,7 @@
 .kira{
    background:  hsl(0, 0%, 100%);
 }
-
+/*
 @media (min-width: 700px){
     .container{
         padding: 0;
@@ -99,3 +99,4 @@
         grid-row: 1/span 2;
     }
 }
+*/
