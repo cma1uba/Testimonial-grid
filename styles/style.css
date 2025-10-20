@@ -14,7 +14,6 @@
 
 .card{
     padding: 20px;
-    height: 100%;
     margin-bottom: 30px;
     border-radius: 12px;
 }
@@ -74,7 +73,6 @@
 .kira{
    background:  hsl(0, 0%, 100%);
 }
-/*
 @media (min-width: 700px){
     .container{
         padding: 0;
@@ -89,6 +87,7 @@
     }
     .card{
         margin: 0;
+        height: 100%;
     }
     .card-span-2{
         grid-column: span 2;
@@ -98,4 +97,4 @@
         grid-row: 1/span 2;
     }
 }
-*/
+
